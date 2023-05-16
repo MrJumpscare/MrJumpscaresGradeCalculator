@@ -1,2 +1,3 @@
 # MrJumpscaresGradeCalculator
- My grade calculator
+ My grade calculator. Check releases for latest version
+ 

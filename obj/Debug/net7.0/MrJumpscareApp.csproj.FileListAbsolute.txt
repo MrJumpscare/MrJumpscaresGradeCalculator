@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\MrJumpscareApp\bin\Debug\net7.0\MrJumpscareApp.exe
+C:\Users\chris\source\repos\MrJumpscareApp\bin\Debug\net7.0\MrJumpscareApp.deps.json
+C:\Users\chris\source\repos\MrJumpscareApp\bin\Debug\net7.0\MrJumpscareApp.runtimeconfig.json
+C:\Users\chris\source\repos\MrJumpscareApp\bin\Debug\net7.0\MrJumpscareApp.dll
+C:\Users\chris\source\repos\MrJumpscareApp\bin\Debug\net7.0\MrJumpscareApp.pdb
+C:\Users\chris\source\repos\MrJumpscareApp\obj\Debug\net7.0\MrJumpscareApp.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\MrJumpscareApp\obj\Debug\net7.0\MrJumpscareApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\MrJumpscareApp\obj\Debug\net7.0\MrJumpscareApp.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\MrJumpscareApp\obj\Debug\net7.0\MrJumpscareApp.AssemblyInfo.cs
+C:\Users\chris\source\repos\MrJumpscareApp\obj\Debug\net7.0\MrJumpscareApp.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\MrJumpscareApp\obj\Debug\net7.0\MrJumpscareApp.dll
+C:\Users\chris\source\repos\MrJumpscareApp\obj\Debug\net7.0\refint\MrJumpscareApp.dll
+C:\Users\chris\source\repos\MrJumpscareApp\obj\Debug\net7.0\MrJumpscareApp.pdb
+C:\Users\chris\source\repos\MrJumpscareApp\obj\Debug\net7.0\MrJumpscareApp.genruntimeconfig.cache
+C:\Users\chris\source\repos\MrJumpscareApp\obj\Debug\net7.0\ref\MrJumpscareApp.dll

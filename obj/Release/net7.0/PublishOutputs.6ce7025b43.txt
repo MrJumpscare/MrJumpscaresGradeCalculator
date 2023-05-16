@@ -1,0 +1,5 @@
+C:\Users\chris\source\repos\MrJumpscareApp\bin\Release\net7.0\publish\MrJumpscareApp.exe
+C:\Users\chris\source\repos\MrJumpscareApp\bin\Release\net7.0\publish\MrJumpscareApp.dll
+C:\Users\chris\source\repos\MrJumpscareApp\bin\Release\net7.0\publish\MrJumpscareApp.deps.json
+C:\Users\chris\source\repos\MrJumpscareApp\bin\Release\net7.0\publish\MrJumpscareApp.runtimeconfig.json
+C:\Users\chris\source\repos\MrJumpscareApp\bin\Release\net7.0\publish\MrJumpscareApp.pdb
